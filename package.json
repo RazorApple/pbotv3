@@ -1,0 +1,35 @@
+{
+  "name": "pbotv2",
+  "version": "2.0.0",
+  "description": "pbot discord.js bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo no test command",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RazorApple/pBotv2.git"
+  },
+  "keywords": [
+    "discord.js",
+    "bot",
+    "pbot",
+    "github",
+    "git",
+    "moment",
+    "commands",
+    "json"
+  ],
+  "author": "OwlsOwlAtNight",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RazorApple/pBotv2/issues"
+  },
+  "homepage": "https://github.com/RazorApple/pBotv2#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "moment": "^2.22.2",
+    "snekfetch": "^4.0.4"
+  }
+}
